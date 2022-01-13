@@ -2,6 +2,7 @@
 ![GitHub top language](<https://img.shields.io/github/languages/top/BDFD-LearningGround/IBM-Data-Analyst-Professional-Certificate_Coursera_?style=flat>)
 ![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/IBM-Data-Analyst-Professional-Certificate_Coursera_?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
+![<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/github.svg" alt="bdfd" />](https://github.com/bdfd)
 
 # IBM Data Analyst Professional Certificate(Coursera)
 
