@@ -1,4 +1,9 @@
-# 3.8_Coursera_IBM-Data-Analyst-Professional-Certificate
+![ViewCount](<https://views.whatilearened.today/views/github/BDFD-LearningGround/IBM-Data-Analyst-Professional-Certificate_Coursera_/.svg?cache=remove>)
+![GitHub top language](<https://img.shields.io/github/languages/top/BDFD-LearningGround/IBM-Data-Analyst-Professional-Certificate_Coursera_/?style=flat>)
+![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/IBM-Data-Analyst-Professional-Certificate_Coursera_/?style=flat)
+<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
+
+# 3.8 IBM Data Analyst Professional Certificate(Coursera)
 Learn the foundational skills required for an entry-level data analyst role through this nine course Professional Certificate from IBM and position yourself competitively in the thriving job market for data analysts.
 
 Learn the core principles of data analysis and gain hands-on skills practice. You’ll work with a variety of data sources, project scenarios, and data analysis tools, including Excel, SQL, Python, Jupyter Notebooks, and Cognos Analytics, gaining practical experience with data manipulation and applying analytical techniques.
