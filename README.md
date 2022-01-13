@@ -39,7 +39,7 @@ This Professional Certificate does not require any prior programming or statisti
 
 ## Course Certificate
 
-Total Hours: ~660 Hrs
+Total Hours: ~132 Hrs
 
 <div align="center">
 
